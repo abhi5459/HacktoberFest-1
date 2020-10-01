@@ -1,0 +1,26 @@
+#include<bits/stdc++.h>
+
+using namespace std;
+
+#define ll long long int
+
+ll fact(ll n); 
+  
+ll nCr(ll n, ll r) 
+{ 
+     
+} 
+
+ll fact(ll n) 
+{ 
+    
+} 
+
+int main()
+{
+	ll n,m;
+	cin>>n>>m;
+	ll ans = ncr(n+m,n);
+	cout<<"Total Number of paths are "<<ans<<endl;
+	return 0;
+}
