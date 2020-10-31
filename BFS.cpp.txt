@@ -75,7 +75,8 @@ void Graph::BFS(int s)
 }
 int main() 
 { 
-	// Create a graph given in the above diagram 
+	// Create a graph given 
+	// in the above diagram 
 	
 	int n,m;
 	cin>>n>>m;
